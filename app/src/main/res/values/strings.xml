@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Flowchart - 220401039</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string-array name="name_flowchart">
+        <item>Start End</item>
+        <item>Preparation</item>
+        <item>Input Output</item>
+        <item>Process</item>
+        <item>Condition</item>
+        <item>Document</item>
+        <item>Document Multiple</item>
+        <item>Database</item>
+        <item>Connector</item>
+        <item>Off page connector</item>
+    </string-array>
+    <integer-array name="gambar_flowchart">
+        <item>@drawable/start_end</item>
+        <item>@drawable/preparation</item>
+        <item>@drawable/input_output</item>
+        <item>@drawable/process</item>
+        <item>@drawable/condition</item>
+        <item>@drawable/document</item>
+        <item>@drawable/document_multiple</item>
+        <item>@drawable/database</item>
+        <item>@drawable/connector</item>
+        <item>@drawable/off_page_connector</item>
+    </integer-array>
+</resources>
